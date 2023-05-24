@@ -100,7 +100,7 @@ __END__
                       <br style='clear:both' />
                       <a href="/resume.pdf" target="new"> Resume as pdf </a>
                       <br style='clear:both' />
-                      <a href="/docs/Joshua_Montross_Resume.docx" target="new"> Resume as word document </a>
+                      <a href="/docs/daniel_resume.docx" target="new"> Resume as word document </a>
                       <br style='clear:both' />
                        <% if @awesome_instance_variables[:tagline] %>
                         <small> <%= @awesome_instance_variables[:tagline] %> <br style='clear:both' /> ~j  </small>
@@ -144,49 +144,47 @@ __END__
               </div>
               <div class='project'>
                 <h2>CryoZone</h2>
-                <h3>Co-Founder and C(F||T)O </h3>
-                <h4>January 2014 - Present</h4>
-                <p> Creating a world-class whole body cryotherapy experience using open source software, skillful incentives for stakeholders, and integrating SAAS products</p>
+                <h3> Software Intern </h3>
+                <h4>January 2023 - May 2023</h4>
+                <p> </p>
                 <ul>
                 <li>
-                  Compared various POS and CRM systems to create a streamlined system for scheduling and payments
+                Wrote softare to assist in  monthly reports of financials and key performance metrics for management to measure profitability for each product / plan. 
                 </li>
                  <li>
-                 Create monthly reports of financials for other partners and investors to measure profitability for each product / plan. 
+                 
                 </li>
                 <li>
-                  Investigate, execute, and learn from different email, ad, and social campaigns.  Automate them where makes sense.
+                
                 </li>
                 <li>
-                  Wrote internal web applications for authenticating and using the APIs of our CRM for our specfic business processes around nitrogen gas management, plans and usage, and commissions
+                 
                 </li>
                 </ul>
                 <p>
-                  <span class='label'>#CTO</span>
-                  <span class='label'>#CFO</span>
-                  <span class='label'>#wordpress</span>
+                  <span class='label'>#VETSWHOCODE</span>
                   <span class='label'>#JavaScript</span>
                   <span class='label'>#Ruby</span>
-                  <span class='label'>#SEO</span>
+                  <span class='label'>#React</span>
                 </p>
               </div>
                     <div class='project'>
-                <h2>Karma Grove</h2>
-                <h3>Founder</h3>
+                <h2>Sabio</h2>
+                <h3>Softare </h3>
                 <h4>June 2013 - Present</h4>
-                <p> Web and Mobile Point of Sale System and Online Store <a href="http://www.karmagrove.com"> KarmaGrove.com </a></p>
+                <p> Web &... <a href="http://www.karmagrove.com"> KarmaGrove.com </a></p>
                 <ul>
                 <li>
-                  Continuously creating marketplace for charities and business owners to meet and support community causes. A minimum of 1% of revenue automatically given at point of sale and record kept as write off for the business owner
+                  Continuously creating  community causes.
                 </li>
                 <li>
                   Designed, Built, Marketed, Deployed version 1 all alone in one week from a cafe.  
                 </li>
                 <li>
-                  Created events system for emailing tickets to customers of event creators along with link to modify donation rights for the purchase
+                  Created 
                 </li>
                 <li>
-                  Integrated with CRM system pike13 using API and created single page point of sale to increase conversions for studio emails.  
+                  Integrated w
                 </li>
                 </ul>
                 <p>
@@ -197,10 +195,10 @@ __END__
                 </p>
               </div>
               <div class='project'>
-                <h2>Picarro</h2>
-                <h3>Senior Software Engineer</h3>
-                <h4>February, 2013 - November, 2013</h4>
-                <p> Bringing transparency to methane emissions in the natural gas industry and providing technology for molecular spectroscopy </p>
+                <h2>TBD</h2>
+                <h3>Senior... </h3>
+                <h4>TIME</h4>
+                <p> </p>
                 <ul>
                 <li>
                   Created new product with one other dev using node.js, jquery, Google maps, and leaflet to map and share methane emissions
@@ -226,7 +224,7 @@ __END__
                 </p>
               </div>
               <div class='project'>
-                <h2>Empowered.com</h2>
+                <h2>COMPANY</h2>
                 <h3>Software Engineer</h3>
                 <h4>October, 2011 - December, 2012</h4>
                 <p>Empowering students to learn useful skills from a university using great technology.  I am the project lead on our fork of the open source application <a href='https://github.com/instructure/canvas-lms/wiki'> canvas-lms </a> .</p>
@@ -254,7 +252,7 @@ __END__
                 </p>
               </div>
               <div class='project'>
-              <h2>Devbootcamp.com</h2>
+              <h2>PROJECT</h2>
                 <h3>Mentor</h3>
                 <h4>June, 2011 - June 2013</h4>
                 <p>Dev boot camp is an intensive 10 week course meant to take someone from very little programming skill to "world class beginner".
@@ -272,7 +270,7 @@ __END__
                 </ul>
               </div>
               <div class='project'>
-                <h2>Demosphere.com</h2>
+                <h2>PROJECT</h2>
                 <h3>Web developer providing premium sports league and organization software as a service.</h3>
                 <h4>July 2009 - September 2011</h4>
                 <p>
@@ -295,7 +293,7 @@ __END__
                 </p>
               </div>
               <div class='project'>
-                <h2>Financial Literacy Foundation</h2>
+                <h2>PROJECT</h2>
                 <h3>Teaching financial literacy courses in Washington, DC and developing the web site.</h3>
                 <h4> Spring 2008 -  Summer 2009</h4>
                 <p> I began as a volunteer and later became teacher, web developer, and curriculum curator </p>
@@ -321,12 +319,8 @@ __END__
                 </h1>
 	            </div>
             <div class='project'>
-              <h3>BBA, Finance and Information Systems</h3>
-              <h4>2004-2008 George Washington University</h4>
-            </div>
-            <div class='project'>
-              <h3>MS, Information Systems Design</h3>
-              <h4>2008-2009 George Washington University</h4>
+              <h3>Bachelors Science, Entrepreneurship</h3>
+              <h4>2007 University of Southern California</h4>
             </div>
             <div class='project'>
                 <h1>
@@ -335,16 +329,8 @@ __END__
                 </h1>
             </div>
             <ul>
-              <li>BulletProof 2017</li>
-              <li>RubyConf 2015</li>
-              <li>Heroku Waza 2013</li>
-              <li>RubyConf 2012</li>
-              <li>CanvasCon 2011</li>
-              <li>RubyConf 2010</li>
-              <li>JSConf 2010</li>
-              <li>Dreamforce 2010</li>
-              <li>RubyConf 2009</li>
-              <li>JSConf 2009</li>
+              <li>RubyConf 2023 Mexico </li>
+              <li>JSConf 2023 Colombia</li>
             </ul>
 
             <div class='project'>
@@ -354,8 +340,8 @@ __END__
               </h1>
             </div>
             <div class='project'>
-              <h3><a href= "http://www.circlingeurope.com"> Circling Europe </a> </h3>
-              <h4> Company specializes in leadership training </h4>
+              <h3><a href= "http://www.vetswhocode.com"> Vets who code </a> </h3>
+              <h4> supporting other veterans to get into software </h4>
               <ul>
               <li> Implemented new booking system with automated mailers </li>
               <li> Created development server identical to production </li>
@@ -365,11 +351,11 @@ __END__
 	        </div>
 
           <div class='project'>
-              <h3><a href="#"> jmontross.com </a> </h3>
+              <h3><a href="#"> daniel-gueda.com </a> </h3>
               <h4>Sinatra app with webkit and pdf generation from html content on the fly </h4>
               <p>
               The resume pdf is generated from this html (and admittedly could use some work).
-              <a href="http://www.github.com/jmontross/pointmanj">The source is available here.</a>
+              <a href="http://www.github.com/daniel-gueda/veteran-profile">The source is available here.</a>
               </p>
 
               <span class='label'>#sinatra</span>
