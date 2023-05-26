@@ -139,17 +139,17 @@ __END__
               <div class='page-header'>
                 <h1>
                   Projects and Jobs
-                  <small>I have worked with Ruby and Rails since 2008.</small>
+                  <small>I have worked... since 2008</small>
                 </h1>
               </div>
               <div class='project'>
                 <h2>CryoZone</h2>
-                <h3> Software Intern </h3>
+                <h3> Software Consultant </h3>
                 <h4>January 2023 - May 2023</h4>
                 <p> </p>
                 <ul>
                 <li>
-                Wrote softare to assist in  monthly reports of financials and key performance metrics for management to measure profitability for each product / plan. 
+                Wrote software to... 
                 </li>
                  <li>
                  
@@ -170,21 +170,16 @@ __END__
               </div>
                     <div class='project'>
                 <h2>Sabio</h2>
-                <h3>Softare </h3>
-                <h4>June 2013 - Present</h4>
+                <h3> </h3>
+                <h4>June 2022 - 2023</h4>
                 <p> Web &... <a href="http://www.karmagrove.com"> KarmaGrove.com </a></p>
                 <ul>
                 <li>
                   Continuously creating  community causes.
                 </li>
                 <li>
-                  Designed, Built, Marketed, Deployed version 1 all alone in one week from a cafe.  
                 </li>
                 <li>
-                  Created 
-                </li>
-                <li>
-                  Integrated w
                 </li>
                 </ul>
                 <p>
@@ -194,35 +189,7 @@ __END__
                   <span class='label'>#Javascript</span>
                 </p>
               </div>
-              <div class='project'>
-                <h2>TBD</h2>
-                <h3>Senior... </h3>
-                <h4>TIME</h4>
-                <p> </p>
-                <ul>
-                <li>
-                  Created new product with one other dev using node.js, jquery, Google maps, and leaflet to map and share methane emissions
-                </li>
-                <li>
-                  Moved dev team to be more agile by using git, pivotal tracker, and then convincing stakeholders of benefits.
-                </li>
-                <li>
-                  Wrote chef recipes for our different web products to use with vagrant to take setup time of personal environment from multiple days to minutes and zero chance of missed steps
-                </li>
-                <li>
-                  Created new API endpints for node.js application for easier mapping of routes and methane emissions
-                </li>
-                </ul>
-                <p>
-                  <span class='label'>#python</span>
-                  <span class='label'>#javascript</span>
-                  <span class='label'>#node.js</span>
-                  <span class='label'>#jquery</span>
-                  <span class='label'>#mongo</span>
-                  <span class='label'>#AWS</span>
-                  <span class='label'>#chef</span>
-                </p>
-              </div>
+              
               <div class='project'>
                 <h2>COMPANY</h2>
                 <h3>Software Engineer</h3>
@@ -251,24 +218,7 @@ __END__
                   <span class='label'>#AWS</span>
                 </p>
               </div>
-              <div class='project'>
-              <h2>PROJECT</h2>
-                <h3>Mentor</h3>
-                <h4>June, 2011 - June 2013</h4>
-                <p>Dev boot camp is an intensive 10 week course meant to take someone from very little programming skill to "world class beginner".
-                </p>
-                <ul>
-                <li>
-                  Mentored two proteges learning to become ruby on rails developers for each cohort since summer 2011.
-                </li>
-                <li>
-                  Provided assistance in understanding datatypes, duck-typing, and other core features of Ruby.
-                </li>
-                <li>
-   				        Pair programmed, showed how to write unit tests, and taught basic web apps on unix with apache and sys5init.
-                </li>
-                </ul>
-              </div>
+              
               <div class='project'>
                 <h2>PROJECT</h2>
                 <h3>Web developer providing premium sports league and organization software as a service.</h3>
@@ -292,25 +242,7 @@ __END__
                   <span class='label'>#agile</span>
                 </p>
               </div>
-              <div class='project'>
-                <h2>PROJECT</h2>
-                <h3>Teaching financial literacy courses in Washington, DC and developing the web site.</h3>
-                <h4> Spring 2008 -  Summer 2009</h4>
-                <p> I began as a volunteer and later became teacher, web developer, and curriculum curator </p>
-                 <ul>
-                   <li> Designed, promoted, and conducted workshops for teens and young adults.
-                   <li> Taught economics & financial literacy at SEED School DC for one year.</li>
-                   <li> Developed a rails 1.2 app with one other person to support assessments, attendance, and more. </li>
-                 </ul>
-                <p>
-                  <span class='label'>#rubyonrails</span>
-                  <span class='label'>#javascript</span>
-                  <span class='label'>#prototype</span>
-                  <span class='label'>#agile</span>
-                </p>
-              </div>
-            </div>
-
+              
             <div class='span5'>
             <div class='page-header'>
                 <h1>
@@ -319,19 +251,9 @@ __END__
                 </h1>
 	            </div>
             <div class='project'>
-              <h3>Bachelors Science, Entrepreneurship</h3>
+              <h3>Bachelors of Science, Business Administration</h3>
               <h4>2007 University of Southern California</h4>
             </div>
-            <div class='project'>
-                <h1>
-                  Conferences
-                  <small>They are more than fun.</small>
-                </h1>
-            </div>
-            <ul>
-              <li>RubyConf 2023 Mexico </li>
-              <li>JSConf 2023 Colombia</li>
-            </ul>
 
             <div class='project'>
               <h1>
@@ -351,10 +273,10 @@ __END__
 	        </div>
 
           <div class='project'>
-              <h3><a href="#"> daniel-gueda.com </a> </h3>
+              <h3><a href="#"> daniel-guedea.com </a> </h3>
               <h4>Sinatra app with webkit and pdf generation from html content on the fly </h4>
               <p>
-              The resume pdf is generated from this html (and admittedly could use some work).
+              The resume pdf is generated from this html 
               <a href="http://www.github.com/daniel-gueda/veteran-profile">The source is available here.</a>
               </p>
 
